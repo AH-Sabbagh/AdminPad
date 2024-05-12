@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Server/AdminPad.Server/Controllers/UserAccountController.cs
+/Server/AdminPad.Server/.config

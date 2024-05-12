@@ -1,5 +1,9 @@
 ﻿namespace AdminPad.Shared.Enums;
-public class Roles
+public enum Roles
 {
-
+    Registered,
+    User,
+    Editor,
+    Administrator,
+    SuperAdmin
 }

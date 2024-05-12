@@ -1,0 +1,10 @@
+﻿global using AdminPad.Server.Data;
+global using AdminPad.Shared.Dtos;
+global using AdminPad.Shared.Models;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.IdentityModel.Tokens;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Security.Claims;
+global using System.Text;
